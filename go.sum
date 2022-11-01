@@ -1,0 +1,8 @@
+github.com/abhinav-codealchemist/custom-error-go v0.0.0-20210821083332-7bcf840a6771 h1:9mXnPaonT/77pa11I9sZR4QlBTIpVpCGI96ImbdpCew=
+github.com/abhinav-codealchemist/custom-error-go v0.0.0-20210821083332-7bcf840a6771/go.mod h1:cu+ab3BrO4QHX5GLBZTEPSSS6NLm6XoU45oBMJKRLjs=
+github.com/ajg/form v1.5.1 h1:t9c7v8JUKu/XxOGBU0yjNpaMloxGEJhUkqFRq0ibGeU=
+github.com/ajg/form v1.5.1/go.mod h1:uL1WgH+h2mgNtvBq0339dVnzXdBETtL2LeUXaIv25UY=
+github.com/gofrs/uuid v4.3.0+incompatible h1:CaSVZxm5B+7o45rtab4jC2G37WGYX1zQfuU2i6DSvnc=
+github.com/gofrs/uuid v4.3.0+incompatible/go.mod h1:b2aQJv3Z4Fp6yNu3cdSllBxTCLRxnplIgP/c0N/04lM=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
