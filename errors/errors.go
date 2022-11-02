@@ -59,3 +59,9 @@ func (c CustomError) WithParam(key string, val interface{}) CustomError {
 	c.loggingParams[key] = val
 	return c
 }
+
+func PanicIfNecessary(err error) {
+	if err != nil {
+		panic(err)
+	}
+}
